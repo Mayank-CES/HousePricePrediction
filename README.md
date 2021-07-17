@@ -1,2 +1,2 @@
-# CarPricePrediction
-Car Price Prediction
+# HousePricePrediction
+House Price Prediction
